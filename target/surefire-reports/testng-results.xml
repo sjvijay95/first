@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-13T17:14:11 IST" name="Suite" finished-at="2022-02-13T17:14:11 IST" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2022-02-13T17:14:11 IST" name="Test" finished-at="2022-02-13T17:14:11 IST" duration-ms="68">
+      <class name="qaclickacademy.Mavenjava.SeleniumMavenTest">
+        <test-method signature="seleniumMaven()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumMavenTest@505fc5a4]" started-at="2022-02-13T17:14:11 IST" name="seleniumMaven" finished-at="2022-02-13T17:14:11 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumMaven -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumMavenTest -->
+      <class name="qaclickacademy.Mavenjava.AppiumMavenTest">
+        <test-method signature="appiumMaven()[pri:0, instance:qaclickacademy.Mavenjava.AppiumMavenTest@6da21078]" started-at="2022-02-13T17:14:11 IST" name="appiumMaven" finished-at="2022-02-13T17:14:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumMaven -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumMavenTest -->
+      <class name="qaclickacademy.Mavenjava.APImavenTest">
+        <test-method signature="APIMavne()[pri:0, instance:qaclickacademy.Mavenjava.APImavenTest@7fee8714]" started-at="2022-02-13T17:14:11 IST" name="APIMavne" finished-at="2022-02-13T17:14:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIMavne -->
+      </class> <!-- qaclickacademy.Mavenjava.APImavenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
