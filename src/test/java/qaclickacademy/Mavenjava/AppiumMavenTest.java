@@ -8,6 +8,8 @@ public class AppiumMavenTest {
 	public void appiumMaven()
 	{
 		System.out.println("AppiumMaven");
+		System.out.println("AppiumMaven1");
+		System.out.println("AppiumMaven2");
 	}
 
 }
